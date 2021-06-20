@@ -1,0 +1,20 @@
+ hostnamectl
+ 
+ lsb-release
+ 
+ /etc/os-release
+ 
+ lscpu
+ 
+ free -s
+ 
+ ifconfig -a 
+ 
+ ip a
+ 
+ lsblk
+ 
+ df -h
+ 
+ ls -larth
+ 
