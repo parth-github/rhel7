@@ -1,12 +1,14 @@
  hostnamectl
  
- lsb-release
+ lsb_release -a
+ 
+ uname -a
  
  /etc/os-release
  
  lscpu
  
- free -s
+ free
  
  ifconfig -a 
  
